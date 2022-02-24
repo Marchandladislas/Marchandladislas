@@ -13,7 +13,6 @@ I live in **France** and just finished my digital school :mortar_board:. I reall
 
 MVC, backoffice, API, algorithm is my favorite stuff actually ! 
 
-______________________________________________________________________________________________________________________________________________________________________________________
 
 Skills: SYMFONY / LUMEN/ PHP / JS / HTML / CSS / TAILWIND / VUE.JS (incoming)
 
@@ -21,7 +20,6 @@ Skills: SYMFONY / LUMEN/ PHP / JS / HTML / CSS / TAILWIND / VUE.JS (incoming)
 - 🌱 I’m currently learning Vue.JS & Docker 
 - 👯 I’m looking to collaborate on Project, project & project !! 
 - 😄 Pronouns: Poivre 
-______________________________________________________________________________________________________________________________________________________________________________________
 
 ## Passions & hobbies ## 
 
@@ -30,7 +28,7 @@ ________________________________________________________________________________
 * Sport :goal_net:
 * Video games	:joystick:
 * being a father of two lovely childs :girl: :girl:
-______________________________________________________________________________________________________________________________________________________________________________________
+
 
  ## What i'm doing ##
 
