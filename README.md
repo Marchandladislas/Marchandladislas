@@ -28,6 +28,7 @@ Skills: SYMFONY / LUMEN/ PHP / JS / HTML / CSS / TAILWIND / VUE.JS (incoming)
 * Sport :goal_net:
 * Video games	:joystick:
 * being a father of two lovely childs :girl: :girl:
+* Anime & Manga :open_book:
 
 
  ## What i'm doing ##
