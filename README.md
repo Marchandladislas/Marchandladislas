@@ -6,7 +6,7 @@
 ______________________________________________________________________________________________________________________________________________________________________________________ 
 
 
-#### Hi there, my name is __Ladislas__ ! (also called Poivre) :gift:
+## Hi there, my name is __Ladislas__ ! (also called Poivre) :gift: ##
   
 
 I live in **France** and just finished my digital school :mortar_board:. I really enjoy learning languages and frameworks like (symfony, Laravel) but i also work with tailwind, Javascript and Php. (Next step is Vue.js!)
