@@ -1,12 +1,11 @@
 
 
-![Back dev developpement](https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+![Back dev developpement](https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=860)
 
 
 ______________________________________________________________________________________________________________________________________________________________________________________ 
 ______________________________________________________________________________________________________________________________________________________________________________________
 
-#### Back dev developpement
 
 Hi there, my name is Ladislas ! (also called Poivre) :gift:
   
