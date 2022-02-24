@@ -1,19 +1,15 @@
 
 
-#### Back dev developpement
-
 ![Back dev developpement](https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 
 
-
-
+______________________________________________________________________________________________________________________________________________________________________________________ 
 ______________________________________________________________________________________________________________________________________________________________________________________
 
-                                                                 Hi there, my name is Ladislas ! (also called Poivre) :gift:
-______________________________________________________________________________________________________________________________________________________________________________________
+#### Back dev developpement
 
-
-
+Hi there, my name is Ladislas ! (also called Poivre) :gift:
+  
 
 I live in France and just finished my digital school :mortar_board:. I really enjoy learning languages and frameworks like (symfony, Laravel) but i also work with tailwind, Javascript and Php. (Next step is Vue.js!)
 
