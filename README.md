@@ -34,7 +34,6 @@ Skills: SYMFONY / LUMEN/ PHP / JS / HTML / CSS / TAILWIND / VUE.JS (incoming)
 
 I am currently looking for my first job, which is not an easy task.
 In the meantime, I continue to train and learn.
-______________________________________________________________________________________________________________________________________________________________________________________
 
 ## Places to contact me 
 
