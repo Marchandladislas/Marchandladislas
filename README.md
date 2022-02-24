@@ -1,6 +1,6 @@
 
 
-![Back dev developpement](https://www.o-kdo.org/contact)
+![Back dev developpement](https://cdn.discordapp.com/attachments/931464050817249293/940969044239085598/ladislas-modified.png)
 
 
 ______________________________________________________________________________________________________________________________________________________________________________________ 
