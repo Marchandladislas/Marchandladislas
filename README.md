@@ -1,6 +1,6 @@
 
 
-![Back dev developpement](https://cdn.discordapp.com/attachments/931464050817249293/940969044239085598/ladislas-modified.png)
+![Back dev developpement](https://media.discordapp.net/attachments/934036971783864360/940595211233529896/okdohome_3.jpg?width=1414&height=670)
 
 
 ______________________________________________________________________________________________________________________________________________________________________________________ 
