@@ -21,6 +21,15 @@ Skills: SYMFONY / LUMEN/ PHP / JS / HTML / CSS / TAILWIND / VUE.JS (incoming)
 - 🌱 I’m currently learning Vue.JS & Docker 
 - 👯 I’m looking to collaborate on Project, project & project !! 
 - 😄 Pronouns: Poivre 
+______________________________________________________________________________________________________________________________________________________________________________________
+
+Passion & hobbies 
+
+* Psychology :brain:
+* Web developpement :keyboard:
+* Sport :goal_net:
+* Video games	:joystick:
+* being a father of two lovely childs :girl: :girl:
 
 ______________________________________________________________________________________________________________________________________________________________________________________
 
