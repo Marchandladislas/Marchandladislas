@@ -6,7 +6,7 @@
 ______________________________________________________________________________________________________________________________________________________________________________________ 
 
 
-## Hi there, my name is __Ladislas__ ! (also called Poivre) :gift: ##
+## Hi there, my name is __Ladislas__ ! :gift: ##
   
 
 I live in **France** and just finished my digital school :mortar_board:. I really enjoy learning languages and frameworks like (symfony, Laravel) but i also work with tailwind, Javascript and Php. (Next step is Vue.js!)
@@ -19,7 +19,7 @@ Skills: SYMFONY / LUMEN/ PHP / JS / HTML / CSS / TAILWIND / VUE.JS (incoming)
 
 - 🌱 I’m currently learning Vue.JS & Docker 
 - 👯 I’m looking to collaborate on Project, project & project !! 
-- 😄 Pronouns: Poivre 
+- 😄 Web Friend called me: Poivre 
 
 ## Passions & hobbies ## 
 
