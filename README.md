@@ -10,16 +10,17 @@ ________________________________________________________________________________
   
 
 I live in **France** and just finished my digital school :mortar_board:. I really enjoy learning languages and frameworks like (symfony, Laravel) but i also work with tailwind, Javascript and Php. (Next step is Vue.js!)
+I decide to go and learn a bit more, and continue with O'clock and culture-sports to step-up !
 
 MVC, backoffice, API, algorithm is my favorite stuff actually ! 
 
 
-Skills: SYMFONY / LUMEN/ PHP / JS / HTML / CSS / TAILWIND / VUE.JS (incoming)
+Skills: SYMFONY / PHP / JS / HTML / CSS / TAILWIND 
 
 
-- 🌱 I’m currently learning Vue.JS & Docker 
-- 👯 I’m looking to collaborate on Project, project & project !! 
-- 😄 Web Friend called me: Poivre 
+- 🌱 I’m currently learning Vue.JS, Laravel & Docker wit school 
+- 👯 I’m working with "culture-sports" on my alternance. 
+- 😄 FUN FACT : Web Friend called me: Poivre 
 
 ## Passions & hobbies ## 
 
@@ -33,8 +34,8 @@ Skills: SYMFONY / LUMEN/ PHP / JS / HTML / CSS / TAILWIND / VUE.JS (incoming)
 
  ## What i'm doing ##
 
-I am currently looking for my first job, which is not an easy task.
-In the meantime, I continue to train and learn.
+I am currently working with "Culture-sports".
+In the meantime, I continue to train and learn with o'clock for the next 16 months (end october 2023).
 
 ## Places to contact me 
 
