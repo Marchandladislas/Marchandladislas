@@ -9,16 +9,14 @@ ________________________________________________________________________________
 ## Hi there, my name is __Ladislas__ ! :gift: ##
   
 
-I live in **France** and just finished my digital school :mortar_board:. I really enjoy learning languages and frameworks like (symfony, Laravel, and backend in general) but i also work with flutter, nodejs & docker. (Next step is React)
-I decide to learn more and continue with O'clock and culture-sports to step-up !
+I live in **France** and just finished my digital school :mortar_board:. I really enjoy learning languages and frameworks like (symfony, Laravel and backend in general) but i also work with flutter, nodejs & docker.
 
 Conception, API & algorithm is my favorite stuff actually ! 
 
+Skills: DOCKER / LARAVEL / SYMFONY / PHP / NODEJS / CSS (+ bootstrap & tailwind) / NEXTJS / VUEJS 
 
-Skills: DOCKER / LARAVEL / SYMFONY / PHP / JS / CSS / TAILWIND / HTML 
 
-
-- 🌱 I’m currently learning React and nodejs
+- 🌱 I’m currently working on a community project for 'rolistes'.
 - 👯 I LOVE roleplay gaming like DnD 🐉 or Chtullu ( ;,;)
 - 😄 FUN FACT : Web Friend called me: Poivre 
 
@@ -34,8 +32,9 @@ Skills: DOCKER / LARAVEL / SYMFONY / PHP / JS / CSS / TAILWIND / HTML
 
  ## What i'm doing ##
 
-My work with culture sports is done, looking for another alternance to finish my formation 🙏
-In the meantime, I continue to train and learn with o'clock for the next 16 months (end october 2023).
+My work with culture sports is done,i've spend some time on dev projects with friends.
+In the meantime, I continue to train and learn.
+I'm also looking for a new challenge !
 
 ## Places to contact me 
 
