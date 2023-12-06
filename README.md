@@ -9,32 +9,47 @@ ________________________________________________________________________________
 ## Hi there, my name is __Ladislas__ ! :gift: ##
   
 
-I live in **France** and just finished my digital school :mortar_board:. I really enjoy learning languages and frameworks like (symfony, Laravel and backend in general) but i also work with flutter, nodejs & docker.
+I live in **France** and just finished my digital school :mortar_board:.  I'm passionate about languages and frameworks, with a focus on Symfony, Laravel, and backend development. 
+Additionally, I love working with Flutter, Node.js, and Docker.
 
-Conception, API & algorithm is my favorite stuff actually ! 
+- Conception, API, and algorithms are my favorite areas of expertise.
 
-Skills: DOCKER / LARAVEL / SYMFONY / PHP / NODEJS / CSS (+ bootstrap & tailwind) / NEXTJS / VUEJS 
+### 🚀 Skills
 
+- Docker
+- Laravel
+- Symfony
+- PHP
+- Node.js
+- CSS (including Bootstrap & Tailwind)
+- Next.js
+- Vue.js
 
-- 🌱 I’m currently working on a community project for 'rolistes'.
-- 👯 I LOVE roleplay gaming like DnD 🐉 or Chtullu ( ;,;)
-- 😄 FUN FACT : Web Friend called me: Poivre 
+- ### 🌱 Current Projects
 
-## Passions & hobbies ## 
+- Currently working on a community project for 'rolistes' & 'Ludistes'.
 
-* Psychology :brain:
-* Web developpement :keyboard:
-* Sport :goal_net:
-* Video games	:joystick:
-* being a father of two lovely childs :girl: :girl:
-* Anime & Manga :open_book:
+### 👯 Fun Facts
 
+- I LOVE roleplay gaming like DnD 🐉 ( ;,;)
+- Web friends call me "Poivre" (Pepper in French) 😄
+  
+### 🌈 Passions & Hobbies
 
- ## What i'm doing ##
+- Psychology 🧠
+- Web development ⌨️
+- Sports 🥅
+- Video games 🎮
+- Being a father of two lovely ~~storm~~ children 👧 👧
+- Anime & Manga 📖
 
-My work with culture sports is done,i've spend some time on dev projects with friends.
-In the meantime, I continue to train and learn.
-I'm also looking for a new challenge !
+- ### 🚀 What I'm Up To
+
+- Collaborated on development projects with friends and start open source developpement.
+- Constantly training and learning.
+- Actively seeking a new challenge!
+
+Feel free to connect and let's create something amazing together!
 
 ## Places to contact me 
 
