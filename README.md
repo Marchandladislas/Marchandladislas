@@ -27,11 +27,11 @@ Additionally, I love working with Flutter, Node.js, and Docker.
 
 - ### 🌱 Current Projects
 
-- Currently working on a community project for 'rolistes' & 'Ludistes'.
+- Currently working on application where'rolistes' & 'Ludistes' can find a way to find people at their table.
 
 ### 👯 Fun Facts
 
-- I LOVE roleplay gaming like DnD 🐉 ( ;,;)
+- I LOVE roleplay gaming like DnD 🐉 ( ;,;) and acting.
 - Web friends call me "Poivre" (Pepper in French) 😄
   
 ### 🌈 Passions & Hobbies
@@ -45,7 +45,7 @@ Additionally, I love working with Flutter, Node.js, and Docker.
 
 - ### 🚀 What I'm Up To
 
-- Collaborated on development projects with friends and start open source developpement.
+- Collaborated on development project with friends and start open source developpement.
 - Constantly training and learning.
 - Actively seeking a new challenge!
 
