@@ -39,7 +39,7 @@ Additionally, I love working with Flutter, Node.js, and Docker.
 - Being a father of two lovely ~~storm~~ children 👧 👧
 - Anime & Manga 📖
 
-- ### 🚀 What I'm Up To
+### 🧐 What I'm Up To
 
 - Collaborated on development project with friends and start open source developpement.
 - Constantly training and learning.
@@ -47,7 +47,7 @@ Additionally, I love working with Flutter, Node.js, and Docker.
 
 Feel free to connect and let's create something amazing together!
 
-## Places to contact me 
+### 📇 Places to contact me 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Marchandladislas) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ladislas-marchand//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Marchandlad)  
