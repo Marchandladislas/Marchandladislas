@@ -21,7 +21,7 @@ Additionally, I love working with Flutter, Node.js, and Docker.
 - Next.js
 - Vue.js
 
-- ### 🌱 Current Projects
+### 🌱 Current Projects
 
 - Currently working on application where'rolistes' & 'Ludistes' can find a way to find people at their table.
 
