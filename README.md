@@ -15,15 +15,20 @@ Additionally, I love working with Flutter, Node.js, and Docker.
 - Docker
 - Laravel
 - Symfony
+- Sylius
 - PHP
 - Node.js
 - CSS (including Bootstrap & Tailwind)
 - Next.js
 - Vue.js
+- PGsql / MYsql.
+- Rest and GraphQL
 
 ### 🌱 Current Projects
 
-- Currently working on application where'rolistes' & 'Ludistes' can find a way to find people at their table.
+- I work on application where'rolistes' & 'Ludistes' can find a way to find people at their table (in my freetime).
+  
+- I'm working on the creation of a B2B bundles in the e-commerce sector with ayaline.
 
 ### 👯 Fun Facts
 
