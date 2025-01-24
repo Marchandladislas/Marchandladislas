@@ -19,10 +19,9 @@ Additionally, I love working with Flutter, Node.js, and Docker.
 - Api platform
 - Node.js
 - CSS (including Bootstrap & Tailwind)
-- Vue.js
 - PGsql / MYsql.
 - Rest and GraphQL
-- Laravel
+- learning React ⏳
 
 ### 🌱 Current Projects
 
