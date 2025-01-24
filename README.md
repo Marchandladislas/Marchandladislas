@@ -13,16 +13,16 @@ Additionally, I love working with Flutter, Node.js, and Docker.
 ### 🚀 Skills
 
 - Docker
-- Laravel
 - Symfony
 - Sylius
 - PHP
+- Api platform
 - Node.js
 - CSS (including Bootstrap & Tailwind)
-- Next.js
 - Vue.js
 - PGsql / MYsql.
 - Rest and GraphQL
+- Laravel
 
 ### 🌱 Current Projects
 
